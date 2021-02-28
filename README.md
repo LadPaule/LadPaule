@@ -99,4 +99,4 @@ You can e-mail me directly, get in touch through the account(s) below!
 
 </div>
 
-⭐ From [aeris170](https://github.com/LadPaule)
+⭐ From [LadPaule](https://github.com/LadPaule)
