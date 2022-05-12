@@ -23,7 +23,7 @@ I'm an enthusiastic Javascript Developer, MERN stack and a Computer Scientist, f
 
 ## - 🕹️ My Job
 
-I'm working as a graphics programmer on a Microsoft Hololens project. 👓
+I'm currently at Smile Charity Uganda as Media & ICT head
 
 I'm also working as an independent full stack website developer and a creative Graphics desiner 
 
@@ -84,7 +84,7 @@ I'm also working as an independent full stack website developer and a creative G
 
 I'd like to get in touch with the following topics:
 
-- Game Development in C++, C# or Java
+- Big Data(Machine Learning & Artificial inteligence),website developement in React js and django-wagtail
 - Graphics Programming in Python, Javascript
 
 ## - 📫 How to reach me
