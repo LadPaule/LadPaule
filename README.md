@@ -23,7 +23,7 @@ I'm an enthusiastic Javascript Developer, MERN stack and a Computer Scientist, f
 
 ## - 🕹️ My Job
 
-I'm currently at Smile Charity Uganda as Media & ICT head
+I'm currently at Feyn ltd as CTO and Smile Charity Uganda as ICT & Media Head
 
 I'm also working as an independent full stack website developer and a creative Graphics desiner 
 
@@ -57,7 +57,8 @@ I'm also working as an independent full stack website developer and a creative G
 ## - 🧠 I Know / Use
 ### Programming Languages:
 
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<img src="[https://img.shields.io/badge/-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fwagtail&psig=AOvVaw0Nlh4JUbi62bBPB-Ef9mae&ust=1653904179434000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCG6J63hPgCFQAAAAAdAAAAABAD)" style="margin:5px" />
+<img src="[https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F159-1595848_python-logo-png-transparent-background-python-logo-png.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiRbwhJw_python-logo-png-transparent-background-python-logo-png%2F&tbnid=1sCDfdWuwbFAoM&vet=12ahUKEwj8tcnnt4T4AhVmg84BHd-5C7EQMygFegUIARDmAQ..i&docid=tGtvUufe6NDVNM&w=860&h=900&q=python%20logo&ved=2ahUKEwj8tcnnt4T4AhVmg84BHd-5C7EQMygFegUIARDmAQ)" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
 
 <code><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32px" style="margin:5px" /></code>
 
