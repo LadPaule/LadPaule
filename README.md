@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🙋‍♂️ Hi there ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FLadPaule.LadPaule%2Freadme)
 
 
-I'm an enthusiastic Javascript Developer, MERN stack and a Computer Scientist, focused on working on projects which will always challenge me to level up my skills and have fun while working.
+I'm an enthusiastic Python, Javascript Developer, MERN, Django, Next Js stack and a Computer Scientist, focused on working on projects which will always challenge me to level up my skills and have fun while working.
 
 ![LadPaule's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LadPaule&show_icons=true)
 
